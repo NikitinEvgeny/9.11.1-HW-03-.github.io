@@ -1,0 +1,52 @@
+.container{
+
+padding-top: 150px;
+
+}
+
+
+.card_style{
+
+    border: 3px ridge #4b71ee;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+ 
+}
+
+
+
+.header_style{
+     
+    border-bottom:3px ridge #677e88;
+    background-image: linear-gradient(to right , #aea4e3, #d3ffe8);
+     font-size: 20px;
+     color: rgb(0, 0, 0);
+
+}
+
+
+
+.body_style{
+ 
+    background: linear-gradient(90deg, #aea4e3, #d3ffe8);
+}
+
+span{
+
+color:#288fcf;
+
+}
+
+h4{
+
+    color:#3a1763;
+
+}
+
+
+button{
+
+    margin-top: 10px;
+    background: linear-gradient(90deg, #aea4e3, #d3ffe8);
+
+
+}
