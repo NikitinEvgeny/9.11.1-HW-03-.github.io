@@ -29,7 +29,7 @@
             "id_4": "Артем",
             "id_5": "Дмитрий",
             "id_6": "Никита",
-            "id_7": "Михаил",
+            "id_7": "Вадим",
             "id_8": "Даниил",
             "id_9": "Егор",
             "id_10": "Андрей"
@@ -70,7 +70,7 @@
         "id_6":"Машинист",
         "id_7":"Токарь",
         "id_8":"Строитель",
-        "id_9":"Няня"
+        "id_9":"Маляр"
                }
         }`,
 
@@ -165,7 +165,7 @@
 
 
     randomYers: function(){
-        const yers = this.randomIntNumber(1985, 2024);
+        const yers = this.randomIntNumber(1985, 2005);
         console.log(yers);
         return  yers ;
         },
